@@ -1,0 +1,8 @@
+{
+  "name": "typescript-1",
+  "version": "1.0.0",
+  "author": "obub",
+  "devDependencies": {
+    "typescript": "^5.1.3"
+  }
+}
